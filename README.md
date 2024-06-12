@@ -1,6 +1,8 @@
 BeatChecker is a simple and fast app that detects your heart and pulse health, allowing you to record your heart rate in various states such as rest, walking, and running anytime and anywhere.
 HealthKit will synchronize your measured heart rate data with Apple Health if you authorize it to be enabled
 
+Technical support contact information: andyliu24202406@163.com
+
 Privacy Policy and Terms and Conditions
 
 Our continuous goal is to provide you with the best user experience. We attach great importance to and protect your personal privacy. The latest EU General Data Protection Regulation (GDPR), which came into effect on May 25, 2018, has brought about changes including:
